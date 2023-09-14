@@ -9,4 +9,4 @@ Hello, this is my blog. I hope you enjoy this journey with **me**.
 - Goofy 1
 - Thing 2
 1. Shammy
-* Wow
+* Goodluck
