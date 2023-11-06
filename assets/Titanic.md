@@ -7,5 +7,5 @@ Using Panda I was able to graph all the survivors in the titanic.
 Using this piece of code I was able to see all the passengers, their age, their sex, and their class with this I was able to formulate a graph of all the people who survived
 
 ![panda](/code.jpg)
-This is an image of the graph I was able to create of all the survivors. It shows how many woman survived compared to men survivors.
+This is an image of the graph I was able to create of all the survivors. It shows how many woman survived compared to men survivors. I really struggled with this one. I wonder if anyone else did. Hopefully not as bad as I did.
 
